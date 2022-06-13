@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">gmail-interface</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Duong Quang Trieu</string>
+    <string name="nav_header_subtitle">trieu.dq194388@sis.hust.edu.vn</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_search">Search</string>
+
+    <string name="menu_inbox">Inbox</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="default_avatar">A</string>
+    <string name="default_name">Email Name</string>
+    <string name="default_time">12:00 PM</string>
+    <string name="default_title">Title</string>
+    <string name="default_content">This is content here</string>
+</resources>
