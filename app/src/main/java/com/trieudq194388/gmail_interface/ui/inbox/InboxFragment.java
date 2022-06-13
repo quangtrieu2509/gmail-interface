@@ -39,7 +39,6 @@ public class InboxFragment extends Fragment {
 
         recyclerView.addItemDecoration(new DividerItemDecoration(binding.getRoot().getContext(),
                 DividerItemDecoration.VERTICAL));
-
         return root;
     }
 
